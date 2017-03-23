@@ -58,8 +58,8 @@ Rules:
 
 1. Space ship can crash on asteroids
 2. All bullets are absorbed by asteroids - you can hide behind asteroid
-3. When enemy bullet(red) hits our bullet(blue) they destroy eachother
-4. Enemy ships are not affected by asteroids - the can fly over
+3. When enemy bullet(red) hits our bullet(blue) they destroy each other
+4. Enemy ships are not affected by asteroids - they can fly over
 5. Enemy ships are resurrected - the game may never end
 
 # TODOs
